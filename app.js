@@ -8,7 +8,6 @@
 
   urls = [
     'http://blog.drmadhushan.me/feeds/posts/default',
-    'http://feeds.bbci.co.uk/news/technology/rss.xml',
     'http://www.adaderana.lk/rss.php'
   ]
 
