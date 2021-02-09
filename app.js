@@ -8,6 +8,7 @@
 
   urls = [
     'http://blog.drmadhushan.me/feeds/posts/default',
+    //'https://drmadpro.blogspot.com/feeds/posts/default',
     'http://www.adaderana.lk/rss.php'
   ]
 
@@ -27,6 +28,7 @@
       }
     });
   }
+  // textarea.sort();
 
 //Using feednami to fetch RSS feeds
 //https://toolkit.sekando.com/docs/en/feednami
